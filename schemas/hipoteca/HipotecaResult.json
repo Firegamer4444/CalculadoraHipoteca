@@ -1,0 +1,19 @@
+{
+  "hipoteca": {
+    "capital": 1000,
+    "interes": 5,
+    "plazos": 24
+  },
+  "cuotas": [
+    {
+      "numero": 1,
+      "anio": 1,
+      "mes": 1,
+      "capitalInicial": 39.7,
+      "intereses": 39.7,
+      "capitalAmortizado": 39.7,
+      "cuota": 39.7,
+      "capitalPendiente": 39.7
+    }
+  ]
+}
