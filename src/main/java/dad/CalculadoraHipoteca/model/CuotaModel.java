@@ -17,7 +17,7 @@ public class CuotaModel {
     private final DoubleProperty capitalPendiente = new SimpleDoubleProperty();
 
     public CuotaModel(Cuota cuota) {
-        año.set(cuota.getAnio());
+        año.set(cuota.getAnyo());
         mes.set(cuota.getMes());
         capitalInicial.set(cuota.getCapitalInicial());
         intereses.set(cuota.getIntereses());
