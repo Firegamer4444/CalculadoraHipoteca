@@ -7,7 +7,7 @@
   "cuotas": [
     {
       "numero": 1,
-      "anyo": 1,
+      "anio": 1,
       "mes": 1,
       "capitalInicial": 39.7,
       "intereses": 39.7,
